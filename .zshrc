@@ -1,4 +1,4 @@
-echo oga zshrc
+echo my zshrc
 # ヒストリの設定
 HISTFILE=~/.histfile
 HISTSIZE=10000
