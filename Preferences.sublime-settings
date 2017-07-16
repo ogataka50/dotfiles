@@ -1,0 +1,49 @@
+{
+	"alwayshighlight_pattern": "foo|bar|[　０-９Ａ-Ｚａ-ｚ]",
+	"auto_complete": true,
+	"auto_convert_line_endings_to": "unix",
+	"auto_indent": true,
+	"auto_match_enabled": true,
+	"bold_folder_labels": true,
+	"caret_style": "solid",
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/User/SublimeLinter/Tubnil (SL).tmTheme",
+	"default_line_ending": "unix",
+	"draw_indent_guides": true,
+	"draw_white_space": "all",
+	"enable_tab_scrolling": false,
+	"font": "Ricty",
+	"font_size": 10,
+	"fullwhitespace_viewable": true,
+	"gutter": true,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"hot_exit": true,
+	"ignored_packages":
+	[
+		"IndentGuides",
+		"Theme - Phoenix",
+		"Theme - Pseudo OSX",
+		"Theme - Refined",
+		"Theme - Refresh",
+		"Theme - Soda",
+		"vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_active",
+		"draw_normal"
+	],
+	"line_numbers": true,
+	"line_padding_top": 0,
+	"preview_on_click": true,
+	"scroll_past_end": false,
+	"show_full_path": true,
+	"show_line_endings": true,
+	"show_tab_close_buttons": true,
+	"smart_indent": true,
+	"tab_size": 4,
+	"trim_automatic_white_space": false,
+	"trim_trailing_white_space_on_save": false,
+	"word_wrap": false
+}
